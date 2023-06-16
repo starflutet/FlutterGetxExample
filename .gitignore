@@ -126,4 +126,4 @@
 # Flutter IntelliJ Plugin
 **/.flutter-plugins
 **/.flutter-plugins-dependencies
-lib/settings/Constant/content.dart
+lib/settings/constant/content.dart
